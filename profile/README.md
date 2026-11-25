@@ -2,7 +2,7 @@
 
 **The design tool for AI agents.** Your coding agent draws screens on a shared board through an MCP server; you review, comment and decide. Every screen is plain HTML + Tailwind CSS, so it stays editable by hand and by the agent, and goes back to code without a translation step.
 
-[Website](https://saymock.com/en/?utm_source=github&utm_medium=github) · [Gallery](https://saymock.com/en/gallery/?utm_source=github&utm_medium=github) · [MCP tools](https://saymock.com/en/docs/mcp-tools/?utm_source=github&utm_medium=github) · [Changelog](https://saymock.com/en/changelog/?utm_source=github&utm_medium=github)
+[Website](https://saymock.com/en/?utm_source=github-org&utm_medium=github) · [Gallery](https://saymock.com/en/gallery/?utm_source=github-org&utm_medium=github) · [MCP tools](https://saymock.com/en/docs/mcp-tools/?utm_source=github-org&utm_medium=github) · [Changelog](https://saymock.com/en/changelog/?utm_source=github-org&utm_medium=github)
 
 ## Repositories
 
